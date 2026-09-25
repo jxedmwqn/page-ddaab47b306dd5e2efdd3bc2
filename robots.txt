@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.ylmndij.cn/sitemap.xml
